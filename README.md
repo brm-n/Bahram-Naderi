@@ -28,10 +28,10 @@
 ##
 
 <p align="">
-<img align="center" src="https://komarev.com/ghpvc/?username=Bahram-Naderi&label=Profile%20views&color=0e75b6&style=flat" alt="Bahram-Naderi" /> </p>
+<img align="center" src="https://komarev.com/ghpvc/?username=brm-n&label=Profile%20views&color=0e75b6&style=flat" alt="Bahram-Naderi" /> </p>
 </p>
 
-<p align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bahram-Naderi&show_icons=true&locale=en" alt="Bahram-Naderi" /></p>
+<p align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brm-n&show_icons=true&locale=en" alt="Bahram-Naderi" /></p>
 
 ##
 
